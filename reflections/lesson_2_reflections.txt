@@ -1,0 +1,3 @@
+What happens when you initialize a reposition? Why do you need to do it?
+ You make a new bank for information.  It allows you to start working with a blank screen and this repository does not alter other repositories. You need to do this to start a new project.
+
