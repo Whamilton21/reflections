@@ -1,3 +1,15 @@
 What happens when you initialize a reposition? Why do you need to do it?
- You make a new bank for information.  It allows you to start working with a blank screen and this repository does not alter other repositories. You need to do this to start a new project.
+ 
+You make a new bank for information.  It allows you to start working with a blank screen and this repository does not alter other repositories. You need to do this to start a new project.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+  The staging area is the middle man between the working area and the repository. I think it offers a nice place to hold all the stuff you are done with but not ready to commit.  It offers a nice place to pause.
+
+How can you use the staging area to make sure you have one commit per logical change?
+	The staging area allows us to see what we have tracked and what we haven’t tracked.  As long as we keep one thing at a time, we should be able to make a commit for each logical step.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	Branches would help when you are trying to make new features or solving a problem and do not know if it will work.  Branches allow you to work on the project while still keeping the old one intact.
 
