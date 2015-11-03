@@ -5,3 +5,6 @@ I would want to do this so I could keep my work. It would not be safe to do all 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Automatic pulling is similar to the other automatic versions of git.  Intheory, it is a nice idea, but in reality, it can cuase many problems and is not the best for making sure your work  is correct and that your projects stay intact.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+You should use forks when you are trying to downlaod something from the git master page and want tto work on it on your own computer.Cloning makes a copy of something. branches allow different people to work on the same thing at the same time.
